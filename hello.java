@@ -1,6 +1,6 @@
 hello class
 }
-      class static void main()
+      class static void main(hello)
 {
 	{
 		system
